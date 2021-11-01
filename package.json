@@ -1,0 +1,24 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AissaRouk/dd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AissaRouk/dd/issues"
+  },
+  "homepage": "https://github.com/AissaRouk/dd#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
